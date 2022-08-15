@@ -5,3 +5,6 @@ this repo contating code for GAN application, the porpose of this application is
 ## instalation 
 
 clone the rop in the google drive colab notebook. 
+```
+google drive -> colab notebook -> file -> open notebook -> GitHub -> 
+```
